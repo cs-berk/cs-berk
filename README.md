@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Pandas,SQL and Machine Learning Algorithms**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
