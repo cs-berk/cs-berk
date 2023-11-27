@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on https://medium.com/@berkgulay
 
 - 💬 Ask me about **Pandas,SQL and Machine Learning Algorithms**
 
