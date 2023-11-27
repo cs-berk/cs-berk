@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🏗️ I’m currently working on data-driven projects that impact real-world problems.
+- 🏗️ I’m currently working on data-driven projects that impact real-world problems.
 - 🌱 I’m constantly diving deeper into the ocean of data, learning about machine learning, statistical models, and data visualization.
 - 👯 I’m keen to collaborate on innovative open-source data science projects.
 - 🏃 In addition to my passion for data, I'm an avid runner, always chasing the next mile and the data behind my performance.
