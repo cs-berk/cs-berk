@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Pandas,SQL and Machine Learning Algorithms**
 
-<img src="https://github.com/cs-berk/cs-berk/assets/51923612/6e875947-007d-4068-aaab-d0f70a175331" width="250">
+<img src="https://github.com/cs-berk/cs-berk/assets/51923612/6e875947-007d-4068-aaab-d0f70a175331" width="500">
+
+
 
 
 <p align="left">
