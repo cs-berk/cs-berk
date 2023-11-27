@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Berk Gulay</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">I'm a data scientist who loves to delve into data and extract meaningful insights. 📊💡
+</h3>
 
 <p align="center">
   <img src="https://github.com/cs-berk/cs-berk/assets/51923612/6e875947-007d-4068-aaab-d0f70a175331" width="300">
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Deep Learning</strong><br>
-  📝 I regularly write articles on <a href="https://medium.com/@berkgulay" target="_blank">Medium</a><br>
-  💬 Ask me about <strong>Pandas, SQL and Machine Learning Algorithms</strong>
+  🏗️ I’m currently working on data-driven projects that impact real-world problems.
+- 🌱 I’m constantly diving deeper into the ocean of data, learning about machine learning, statistical models, and data visualization.
+- 👯 I’m keen to collaborate on innovative open-source data science projects.
+- 🏃 In addition to my passion for data, I'm an avid runner, always chasing the next mile and the data behind my performance.
+- 💬 Feel free to ask me about data analysis, machine learning, or how to balance a healthy running routine with a busy work schedule.
+- ⚡ Fun fact: I find running to be a perfect analogy for data science; both require perseverance, strategy, and a bit of sweat!
 </p>
 
 <div align="center">
