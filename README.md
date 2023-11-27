@@ -13,6 +13,7 @@
 - 🏃 In addition to my passion for data, I'm an avid runner, always chasing the next mile and the data behind my performance.
 - 💬 Feel free to ask me about data analysis, machine learning, or how to balance a healthy running routine with a busy work schedule.
 - ⚡ Fun fact: I find running to be a perfect analogy for data science; both require perseverance, strategy, and a bit of sweat!
+
 </p>
 
 <div align="center">
