@@ -7,6 +7,7 @@
 
 - 💬 Ask me about **Pandas,SQL and Machine Learning Algorithms**
 
+![DALL·E 2023-11-27 10 55 55 - Create an image of a data scientist in a modern office setting  The data scientist should be of South Asian descent, gender-neutral, sitting at a desk](https://github.com/cs-berk/cs-berk/assets/51923612/6e875947-007d-4068-aaab-d0f70a175331)
 
 <p align="left">
 </p>
