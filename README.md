@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Berk Gulay</h1>
 <h3 align="center">A passionate data scientist</h3>
+
 <img src="https://github.com/cs-berk/cs-berk/assets/51923612/6e875947-007d-4068-aaab-d0f70a175331" width="300">
+<p align="left">
+</p>
+
 
 
 - 🌱 I’m currently learning **Deep Learning**
